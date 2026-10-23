@@ -6,6 +6,7 @@ Plain HTML + CSS, no build step.
     index.html      landing page
     privacy.html    privacy policy (use this URL in App Store Connect)
     support.html    support page (use this URL in App Store Connect)
+    terms.html      terms & conditions / EULA (use this URL in App Store Connect and the paywall)
     style.css       all styles
     assets/         app icon and screenshots
     .nojekyll       tells GitHub Pages to serve the files as-is
